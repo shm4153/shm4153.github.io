@@ -53,7 +53,7 @@
                         </tr>
                         <tr>
                             <td><a href="https://github.com/">GitHub</a></td>
-                            <td>shm4153@g.skku.edu (<a href="https://github.com/shm41503">shm41503</a>)</td>
+                            <td>msoohyun04@gmail.com (<a href="https://github.com/shm4153">shm4153</a>)</td>
                         </tr>
                     </table>
                 </div>
